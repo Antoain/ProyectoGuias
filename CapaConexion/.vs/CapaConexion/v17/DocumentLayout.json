@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B9062F-C944-465E-B1D4-69ADB902BB67}|CapaConexion\\CapaConexion.csproj|C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\capaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24B9062F-C944-465E-B1D4-69ADB902BB67}|CapaConexion\\CapaConexion.csproj|solutionrelative:capaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24653D7-B08F-4BF7-83E6-AF7BDD6DD3F5}|DatosLayer\\DatosLayer.csproj|c:\\users\\offic\\onedrive\\escritorio\\progra 2\\capaconexion\\datoslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24653D7-B08F-4BF7-83E6-AF7BDD6DD3F5}|DatosLayer\\DatosLayer.csproj|solutionrelative:datoslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24653D7-B08F-4BF7-83E6-AF7BDD6DD3F5}|DatosLayer\\DatosLayer.csproj|C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\datoslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24653D7-B08F-4BF7-83E6-AF7BDD6DD3F5}|DatosLayer\\DatosLayer.csproj|solutionrelative:datoslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24653D7-B08F-4BF7-83E6-AF7BDD6DD3F5}|DatosLayer\\DatosLayer.csproj|C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\datoslayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24653D7-B08F-4BF7-83E6-AF7BDD6DD3F5}|DatosLayer\\DatosLayer.csproj|solutionrelative:datoslayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B9062F-C944-465E-B1D4-69ADB902BB67}|CapaConexion\\CapaConexion.csproj|C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\capaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B9062F-C944-465E-B1D4-69ADB902BB67}|CapaConexion\\CapaConexion.csproj|solutionrelative:capaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B9062F-C944-465E-B1D4-69ADB902BB67}|CapaConexion\\CapaConexion.csproj|c:\\users\\offic\\onedrive\\escritorio\\progra 2\\capaconexion\\capaconexion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B9062F-C944-465E-B1D4-69ADB902BB67}|CapaConexion\\CapaConexion.csproj|solutionrelative:capaconexion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CapaConexion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 466,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\DatosLayer\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DatosLayer\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\DatosLayer\\CustomerRepository.cs",
+              "RelativeToolTip": "DatosLayer\\CustomerRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:04:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaConexion\\Form1.cs",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\Form1.cs",
+              "RelativeToolTip": "CapaConexion\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:33:46.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customers.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\DatosLayer\\customers.cs",
+              "RelativeDocumentMoniker": "DatosLayer\\customers.cs",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\DatosLayer\\customers.cs",
+              "RelativeToolTip": "DatosLayer\\customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:05:08.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\DatosLayer\\DataBase.cs",
+              "RelativeDocumentMoniker": "DatosLayer\\DataBase.cs",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\DatosLayer\\DataBase.cs",
+              "RelativeToolTip": "DatosLayer\\DataBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:29:05.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaConexion\\Form1.cs",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaConexion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T04:28:39.239Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaConexion\\Program.cs",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\Program.cs",
+              "RelativeToolTip": "CapaConexion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:38:54.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CapaConexion",
+              "DocumentMoniker": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\CapaConexion.csproj",
+              "RelativeDocumentMoniker": "CapaConexion\\CapaConexion.csproj",
+              "ToolTip": "C:\\Users\\offic\\OneDrive\\Escritorio\\progra 2\\CapaConexion\\CapaConexion\\CapaConexion.csproj",
+              "RelativeToolTip": "CapaConexion\\CapaConexion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T18:25:24.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

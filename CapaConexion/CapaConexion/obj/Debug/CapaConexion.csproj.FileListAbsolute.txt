@@ -1,0 +1,13 @@
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\bin\Debug\DatosLayer.dll
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\bin\Debug\DatosLayer.pdb
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaCone.C1BD2A79.Up2Date
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\offic\OneDrive\Escritorio\progra 2\CapaConexion\CapaConexion\obj\Debug\CapaConexion.pdb
