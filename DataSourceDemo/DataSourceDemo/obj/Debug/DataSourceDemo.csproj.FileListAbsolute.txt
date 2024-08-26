@@ -1,0 +1,11 @@
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe.config
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.pdb
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Form1.resources
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Properties.Resources.resources
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.GenerateResource.cache
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.exe
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.pdb
+C:\Users\offic\OneDrive\Escritorio\progra 2\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.ejemploConexion.resources
